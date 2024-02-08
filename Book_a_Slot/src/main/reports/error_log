@@ -1,0 +1,20 @@
+[15-Dec-2023 06:18:54 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/vazecpuv/public_html/Book_a_Slot/src/main/config/session.php on line 3
+[15-Dec-2023 06:18:54 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Expression #2 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'vazecpuv_Book_A_Slot.RESOURCE_PERSON.full_name' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by in /home/vazecpuv/public_html/Book_a_Slot/src/main/reports/report_home.php:247
+Stack trace:
+#0 /home/vazecpuv/public_html/Book_a_Slot/src/main/reports/report_home.php(247): mysqli_query(Object(mysqli), 'SELECT distinct...')
+#1 {main}
+  thrown in /home/vazecpuv/public_html/Book_a_Slot/src/main/reports/report_home.php on line 247
+[15-Dec-2023 06:19:06 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Expression #2 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'vazecpuv_Book_A_Slot.DEPARTMENT.department_acadamics' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by in /home/vazecpuv/public_html/Book_a_Slot/src/main/reports/overall_report.php:59
+Stack trace:
+#0 /home/vazecpuv/public_html/Book_a_Slot/src/main/reports/overall_report.php(59): mysqli_query(Object(mysqli), 'SELECT departme...')
+#1 {main}
+  thrown in /home/vazecpuv/public_html/Book_a_Slot/src/main/reports/overall_report.php on line 59
+[15-Dec-2023 06:19:30 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/vazecpuv/public_html/Book_a_Slot/src/main/config/session.php on line 3
+[15-Dec-2023 06:19:30 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Expression #2 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'vazecpuv_Book_A_Slot.RESOURCE_PERSON.full_name' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by in /home/vazecpuv/public_html/Book_a_Slot/src/main/reports/report_home.php:247
+Stack trace:
+#0 /home/vazecpuv/public_html/Book_a_Slot/src/main/reports/report_home.php(247): mysqli_query(Object(mysqli), 'SELECT distinct...')
+#1 {main}
+  thrown in /home/vazecpuv/public_html/Book_a_Slot/src/main/reports/report_home.php on line 247
+[07-Feb-2024 05:06:15 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vazecpuv/public_html/Book_a_Slot/src/main/config/session.php on line 2
+[07-Feb-2024 05:06:15 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/vazecpuv/public_html/Book_a_Slot/src/main/reports/report_home.php on line 248
+[07-Feb-2024 05:09:34 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/vazecpuv/public_html/Book_a_Slot/src/main/reports/report_home.php on line 265

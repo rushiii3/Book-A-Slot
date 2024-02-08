@@ -1,0 +1,139 @@
+[15-Dec-2023 04:58:54 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/vazecpuv/public_html/Book_a_Slot/src/main/config/session.php on line 2
+[15-Dec-2023 04:59:02 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/vazecpuv/public_html/Book_a_Slot/src/main/config/session.php on line 2
+[15-Dec-2023 04:59:21 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/vazecpuv/public_html/Book_a_Slot/src/main/config/session.php on line 2
+[15-Dec-2023 05:00:31 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/vazecpuv/public_html/Book_a_Slot/src/main/config/session.php on line 2
+[15-Dec-2023 05:02:09 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/vazecpuv/public_html/Book_a_Slot/src/main/config/session.php on line 2
+[15-Dec-2023 05:07:33 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/vazecpuv/public_html/Book_a_Slot/src/main/config/session.php on line 2
+[15-Dec-2023 05:07:41 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/vazecpuv/public_html/Book_a_Slot/src/main/config/session.php on line 2
+[15-Dec-2023 05:07:41 UTC] PHP Warning:  Constant db_host already defined in /home/vazecpuv/public_html/Book_a_Slot/src/main/connection/connect.php on line 3
+[15-Dec-2023 05:07:41 UTC] PHP Warning:  Constant db_username already defined in /home/vazecpuv/public_html/Book_a_Slot/src/main/connection/connect.php on line 4
+[15-Dec-2023 05:07:41 UTC] PHP Warning:  Constant db_password already defined in /home/vazecpuv/public_html/Book_a_Slot/src/main/connection/connect.php on line 5
+[15-Dec-2023 05:07:41 UTC] PHP Warning:  Constant db_name already defined in /home/vazecpuv/public_html/Book_a_Slot/src/main/connection/connect.php on line 6
+[15-Dec-2023 05:07:41 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'vazecpuv_Book_A_Slot.EVENT' doesn't exist in /home/vazecpuv/public_html/Book_a_Slot/src/main/admin/admin_home.php:115
+Stack trace:
+#0 /home/vazecpuv/public_html/Book_a_Slot/src/main/admin/admin_home.php(115): mysqli_query(Object(mysqli), 'SELECT * from `...')
+#1 {main}
+  thrown in /home/vazecpuv/public_html/Book_a_Slot/src/main/admin/admin_home.php on line 115
+[15-Dec-2023 05:08:14 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/vazecpuv/public_html/Book_a_Slot/src/main/config/session.php on line 2
+[15-Dec-2023 05:08:16 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/vazecpuv/public_html/Book_a_Slot/src/main/config/session.php on line 2
+[15-Dec-2023 05:08:16 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/vazecpuv/public_html/Book_a_Slot/src/main/config/session.php on line 2
+[15-Dec-2023 05:08:17 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/vazecpuv/public_html/Book_a_Slot/src/main/config/session.php on line 2
+[15-Dec-2023 05:08:17 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/vazecpuv/public_html/Book_a_Slot/src/main/config/session.php on line 2
+[15-Dec-2023 05:08:24 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/vazecpuv/public_html/Book_a_Slot/src/main/config/session.php on line 2
+[15-Dec-2023 05:08:24 UTC] PHP Warning:  Constant db_host already defined in /home/vazecpuv/public_html/Book_a_Slot/src/main/connection/connect.php on line 3
+[15-Dec-2023 05:08:24 UTC] PHP Warning:  Constant db_username already defined in /home/vazecpuv/public_html/Book_a_Slot/src/main/connection/connect.php on line 4
+[15-Dec-2023 05:08:24 UTC] PHP Warning:  Constant db_password already defined in /home/vazecpuv/public_html/Book_a_Slot/src/main/connection/connect.php on line 5
+[15-Dec-2023 05:08:24 UTC] PHP Warning:  Constant db_name already defined in /home/vazecpuv/public_html/Book_a_Slot/src/main/connection/connect.php on line 6
+[15-Dec-2023 05:08:24 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'vazecpuv_Book_A_Slot.EVENT' doesn't exist in /home/vazecpuv/public_html/Book_a_Slot/src/main/admin/admin_home.php:115
+Stack trace:
+#0 /home/vazecpuv/public_html/Book_a_Slot/src/main/admin/admin_home.php(115): mysqli_query(Object(mysqli), 'SELECT * from `...')
+#1 {main}
+  thrown in /home/vazecpuv/public_html/Book_a_Slot/src/main/admin/admin_home.php on line 115
+[15-Dec-2023 05:08:36 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/vazecpuv/public_html/Book_a_Slot/src/main/config/session.php on line 2
+[15-Dec-2023 05:09:28 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/vazecpuv/public_html/Book_a_Slot/src/main/config/session.php on line 2
+[15-Dec-2023 05:09:46 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/vazecpuv/public_html/Book_a_Slot/src/main/config/session.php on line 2
+[15-Dec-2023 05:10:13 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/vazecpuv/public_html/Book_a_Slot/src/main/config/session.php on line 2
+[15-Dec-2023 05:11:36 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/vazecpuv/public_html/Book_a_Slot/src/main/config/session.php on line 2
+[15-Dec-2023 05:11:36 UTC] PHP Warning:  Constant db_host already defined in /home/vazecpuv/public_html/Book_a_Slot/src/main/connection/connect.php on line 3
+[15-Dec-2023 05:11:36 UTC] PHP Warning:  Constant db_username already defined in /home/vazecpuv/public_html/Book_a_Slot/src/main/connection/connect.php on line 4
+[15-Dec-2023 05:11:36 UTC] PHP Warning:  Constant db_password already defined in /home/vazecpuv/public_html/Book_a_Slot/src/main/connection/connect.php on line 5
+[15-Dec-2023 05:11:36 UTC] PHP Warning:  Constant db_name already defined in /home/vazecpuv/public_html/Book_a_Slot/src/main/connection/connect.php on line 6
+[15-Dec-2023 05:11:36 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'vazecpuv_Book_A_Slot.EVENT' doesn't exist in /home/vazecpuv/public_html/Book_a_Slot/src/main/admin/admin_home.php:115
+Stack trace:
+#0 /home/vazecpuv/public_html/Book_a_Slot/src/main/admin/admin_home.php(115): mysqli_query(Object(mysqli), 'SELECT * from `...')
+#1 {main}
+  thrown in /home/vazecpuv/public_html/Book_a_Slot/src/main/admin/admin_home.php on line 115
+[15-Dec-2023 05:12:13 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/vazecpuv/public_html/Book_a_Slot/src/main/config/session.php on line 2
+[15-Dec-2023 05:12:29 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/vazecpuv/public_html/Book_a_Slot/src/main/config/session.php on line 2
+[15-Dec-2023 05:15:12 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/vazecpuv/public_html/Book_a_Slot/src/main/config/session.php on line 2
+[15-Dec-2023 05:15:22 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/vazecpuv/public_html/Book_a_Slot/src/main/config/session.php on line 2
+[15-Dec-2023 05:18:30 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/vazecpuv/public_html/Book_a_Slot/src/main/config/session.php on line 3
+[15-Dec-2023 05:19:00 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/vazecpuv/public_html/Book_a_Slot/src/main/config/session.php on line 3
+[15-Dec-2023 05:19:20 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/vazecpuv/public_html/Book_a_Slot/src/main/config/session.php on line 3
+[15-Dec-2023 05:19:22 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/vazecpuv/public_html/Book_a_Slot/src/main/config/session.php on line 3
+[15-Dec-2023 05:19:22 UTC] PHP Warning:  Constant db_host already defined in /home/vazecpuv/public_html/Book_a_Slot/src/main/connection/connect.php on line 3
+[15-Dec-2023 05:19:22 UTC] PHP Warning:  Constant db_username already defined in /home/vazecpuv/public_html/Book_a_Slot/src/main/connection/connect.php on line 4
+[15-Dec-2023 05:19:22 UTC] PHP Warning:  Constant db_password already defined in /home/vazecpuv/public_html/Book_a_Slot/src/main/connection/connect.php on line 5
+[15-Dec-2023 05:19:22 UTC] PHP Warning:  Constant db_name already defined in /home/vazecpuv/public_html/Book_a_Slot/src/main/connection/connect.php on line 6
+[15-Dec-2023 05:19:22 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'vazecpuv_Book_A_Slot.EVENT' doesn't exist in /home/vazecpuv/public_html/Book_a_Slot/src/main/admin/admin_home.php:115
+Stack trace:
+#0 /home/vazecpuv/public_html/Book_a_Slot/src/main/admin/admin_home.php(115): mysqli_query(Object(mysqli), 'SELECT * from `...')
+#1 {main}
+  thrown in /home/vazecpuv/public_html/Book_a_Slot/src/main/admin/admin_home.php on line 115
+[15-Dec-2023 06:18:46 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/vazecpuv/public_html/Book_a_Slot/src/main/config/session.php on line 3
+[15-Dec-2023 06:18:47 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/vazecpuv/public_html/Book_a_Slot/src/main/config/session.php on line 3
+[15-Dec-2023 06:18:47 UTC] PHP Warning:  Constant db_host already defined in /home/vazecpuv/public_html/Book_a_Slot/src/main/connection/connect.php on line 3
+[15-Dec-2023 06:18:47 UTC] PHP Warning:  Constant db_username already defined in /home/vazecpuv/public_html/Book_a_Slot/src/main/connection/connect.php on line 4
+[15-Dec-2023 06:18:47 UTC] PHP Warning:  Constant db_password already defined in /home/vazecpuv/public_html/Book_a_Slot/src/main/connection/connect.php on line 5
+[15-Dec-2023 06:18:47 UTC] PHP Warning:  Constant db_name already defined in /home/vazecpuv/public_html/Book_a_Slot/src/main/connection/connect.php on line 6
+[06-Jan-2024 07:25:26 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vazecpuv/public_html/Book_a_Slot/src/main/config/session.php on line 3
+[06-Jan-2024 07:25:39 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vazecpuv/public_html/Book_a_Slot/src/main/config/session.php on line 3
+[06-Jan-2024 07:25:40 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vazecpuv/public_html/Book_a_Slot/src/main/config/session.php on line 3
+[06-Jan-2024 07:25:44 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vazecpuv/public_html/Book_a_Slot/src/main/config/session.php on line 3
+[06-Jan-2024 07:25:46 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vazecpuv/public_html/Book_a_Slot/src/main/config/session.php on line 3
+[06-Jan-2024 07:25:46 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/vazecpuv/public_html/Book_a_Slot/src/main/admin/open_event_remainder.php on line 79
+[06-Jan-2024 07:25:57 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vazecpuv/public_html/Book_a_Slot/src/main/config/session.php on line 3
+[06-Jan-2024 07:31:13 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vazecpuv/public_html/Book_a_Slot/src/main/config/session.php on line 3
+[06-Jan-2024 07:35:01 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vazecpuv/public_html/Book_a_Slot/src/main/config/session.php on line 3
+[06-Jan-2024 07:36:58 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vazecpuv/public_html/Book_a_Slot/src/main/config/session.php on line 3
+[06-Jan-2024 07:37:46 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vazecpuv/public_html/Book_a_Slot/src/main/config/session.php on line 3
+[06-Jan-2024 07:39:53 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vazecpuv/public_html/Book_a_Slot/src/main/config/session.php on line 3
+[06-Jan-2024 07:41:02 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vazecpuv/public_html/Book_a_Slot/src/main/config/session.php on line 3
+[06-Jan-2024 07:42:20 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vazecpuv/public_html/Book_a_Slot/src/main/config/session.php on line 3
+[06-Jan-2024 07:46:02 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vazecpuv/public_html/Book_a_Slot/src/main/config/session.php on line 3
+[06-Jan-2024 07:57:21 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vazecpuv/public_html/Book_a_Slot/src/main/config/session.php on line 3
+[06-Jan-2024 07:57:23 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vazecpuv/public_html/Book_a_Slot/src/main/config/session.php on line 3
+[06-Jan-2024 07:57:31 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vazecpuv/public_html/Book_a_Slot/src/main/config/session.php on line 3
+[06-Jan-2024 08:08:04 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vazecpuv/public_html/Book_a_Slot/src/main/config/session.php on line 3
+[06-Jan-2024 08:10:12 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vazecpuv/public_html/Book_a_Slot/src/main/config/session.php on line 3
+[06-Jan-2024 08:13:23 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vazecpuv/public_html/Book_a_Slot/src/main/config/session.php on line 3
+[06-Jan-2024 08:19:03 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vazecpuv/public_html/Book_a_Slot/src/main/config/session.php on line 3
+[06-Jan-2024 08:21:24 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vazecpuv/public_html/Book_a_Slot/src/main/config/session.php on line 3
+[06-Jan-2024 08:24:11 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vazecpuv/public_html/Book_a_Slot/src/main/config/session.php on line 3
+[06-Jan-2024 08:25:19 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vazecpuv/public_html/Book_a_Slot/src/main/config/session.php on line 3
+[06-Jan-2024 08:25:21 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vazecpuv/public_html/Book_a_Slot/src/main/config/session.php on line 3
+[06-Jan-2024 08:25:25 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vazecpuv/public_html/Book_a_Slot/src/main/config/session.php on line 3
+[06-Jan-2024 08:25:36 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vazecpuv/public_html/Book_a_Slot/src/main/config/session.php on line 3
+[06-Jan-2024 08:31:31 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vazecpuv/public_html/Book_a_Slot/src/main/config/session.php on line 3
+[06-Jan-2024 08:32:21 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vazecpuv/public_html/Book_a_Slot/src/main/config/session.php on line 3
+[06-Jan-2024 08:37:22 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vazecpuv/public_html/Book_a_Slot/src/main/config/session.php on line 15
+[06-Jan-2024 08:37:41 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vazecpuv/public_html/Book_a_Slot/src/main/config/session.php on line 15
+[06-Jan-2024 08:38:03 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vazecpuv/public_html/Book_a_Slot/src/main/config/session.php on line 15
+[06-Jan-2024 08:39:24 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vazecpuv/public_html/Book_a_Slot/src/main/config/session.php on line 15
+[08-Jan-2024 08:43:37 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vazecpuv/public_html/Book_a_Slot/src/main/config/session.php on line 15
+[08-Jan-2024 08:44:27 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vazecpuv/public_html/Book_a_Slot/src/main/config/session.php on line 15
+[06-Feb-2024 03:30:00 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vazecpuv/public_html/Book_a_Slot/src/main/config/session.php on line 15
+[06-Feb-2024 03:30:21 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vazecpuv/public_html/Book_a_Slot/src/main/config/session.php on line 15
+[07-Feb-2024 04:35:37 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vazecpuv/public_html/Book_a_Slot/src/main/config/session.php on line 15
+[07-Feb-2024 04:44:36 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vazecpuv/public_html/Book_a_Slot/src/main/config/session.php on line 3
+[07-Feb-2024 04:44:45 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vazecpuv/public_html/Book_a_Slot/src/main/config/session.php on line 3
+[07-Feb-2024 04:47:14 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vazecpuv/public_html/Book_a_Slot/src/main/config/session.php on line 3
+[07-Feb-2024 04:47:16 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vazecpuv/public_html/Book_a_Slot/src/main/config/session.php on line 3
+[07-Feb-2024 04:47:17 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vazecpuv/public_html/Book_a_Slot/src/main/config/session.php on line 3
+[07-Feb-2024 04:47:18 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vazecpuv/public_html/Book_a_Slot/src/main/config/session.php on line 3
+[07-Feb-2024 04:47:19 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vazecpuv/public_html/Book_a_Slot/src/main/config/session.php on line 3
+[07-Feb-2024 04:48:44 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vazecpuv/public_html/Book_a_Slot/src/main/config/session.php on line 3
+[07-Feb-2024 04:50:07 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vazecpuv/public_html/Book_a_Slot/src/main/config/session.php on line 3
+[07-Feb-2024 04:50:16 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vazecpuv/public_html/Book_a_Slot/src/main/config/session.php on line 3
+[07-Feb-2024 04:50:44 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vazecpuv/public_html/Book_a_Slot/src/main/config/session.php on line 3
+[07-Feb-2024 04:51:05 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vazecpuv/public_html/Book_a_Slot/src/main/config/session.php on line 3
+[07-Feb-2024 04:52:57 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vazecpuv/public_html/Book_a_Slot/src/main/config/session.php on line 2
+[07-Feb-2024 04:53:16 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vazecpuv/public_html/Book_a_Slot/src/main/config/session.php on line 2
+[07-Feb-2024 04:53:19 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vazecpuv/public_html/Book_a_Slot/src/main/config/session.php on line 2
+[07-Feb-2024 04:54:00 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vazecpuv/public_html/Book_a_Slot/src/main/config/session.php on line 2
+[07-Feb-2024 04:54:02 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vazecpuv/public_html/Book_a_Slot/src/main/config/session.php on line 2
+[07-Feb-2024 04:54:03 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vazecpuv/public_html/Book_a_Slot/src/main/config/session.php on line 2
+[07-Feb-2024 04:54:03 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vazecpuv/public_html/Book_a_Slot/src/main/config/session.php on line 2
+[07-Feb-2024 04:54:03 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vazecpuv/public_html/Book_a_Slot/src/main/config/session.php on line 2
+[07-Feb-2024 04:54:25 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vazecpuv/public_html/Book_a_Slot/src/main/config/session.php on line 2
+[07-Feb-2024 04:54:26 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vazecpuv/public_html/Book_a_Slot/src/main/config/session.php on line 2
+[07-Feb-2024 04:54:27 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vazecpuv/public_html/Book_a_Slot/src/main/config/session.php on line 2
+[07-Feb-2024 04:54:27 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vazecpuv/public_html/Book_a_Slot/src/main/config/session.php on line 2
+[07-Feb-2024 04:54:27 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vazecpuv/public_html/Book_a_Slot/src/main/config/session.php on line 2
+[07-Feb-2024 04:55:02 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vazecpuv/public_html/Book_a_Slot/src/main/config/session.php on line 2
+[07-Feb-2024 04:55:03 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vazecpuv/public_html/Book_a_Slot/src/main/config/session.php on line 2
+[07-Feb-2024 04:55:03 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vazecpuv/public_html/Book_a_Slot/src/main/config/session.php on line 2
+[07-Feb-2024 04:55:03 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vazecpuv/public_html/Book_a_Slot/src/main/config/session.php on line 2
+[07-Feb-2024 04:55:04 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vazecpuv/public_html/Book_a_Slot/src/main/config/session.php on line 2
+[07-Feb-2024 04:55:23 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vazecpuv/public_html/Book_a_Slot/src/main/config/session.php on line 2
+[07-Feb-2024 04:55:30 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/vazecpuv/public_html/Book_a_Slot/src/main/config/session.php on line 2
